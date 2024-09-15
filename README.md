@@ -1,8 +1,3 @@
-While having a license is important for specifying how others can use, modify, or distribute your project, it’s not strictly necessary if you’re not planning to share the project publicly or if you’re not concerned about legal implications.
-
-Here’s the updated README without the license section:
-
-```markdown
 <h1 align="center">Ecommerce Project with Node.js - MVC</h1>
 
 <p align="center">
@@ -49,6 +44,7 @@ This project was created using the following technologies:
 
 ```sh
 npm install
+
 ```
 
 ## Usage
